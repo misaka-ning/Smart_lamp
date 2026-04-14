@@ -1,0 +1,129 @@
+QWidget#Smart_lamp {
+    border-radius: 8px;
+    border: 2px solid rgb(182, 182, 182);
+    background-color: rgb(243, 243, 243);
+}
+
+/*关闭按键*/
+QPushButton#closeButton {
+    border: none;
+    image: url(":/assets/close.png");
+}
+
+/*关闭按键鼠标悬浮状态*/
+QPushButton#closeButton:hover {
+    border: none;
+    image: url(":/assets/close_hover.png");
+}
+
+/*最小化按键*/
+QPushButton#minimizeButton {
+    border: none;
+    image: url(":/assets/minimization.png");
+}
+
+/*最小化按键鼠标悬浮状态*/
+QPushButton#minimizeButton:hover {
+    border: none;
+    image: url(":/assets/minimization_hover.png");
+}
+
+/*台灯图标*/
+QLabel#lampPictureLabel {
+    image: url(":/assets/lamp_off.png");
+}
+
+/*标题栏*/
+QLabel#titleLabel {
+    font-family: "FZShuti";
+    font-size: 20px;
+}
+
+QLabel#connectLabel {
+    font-family: "STFangsong";
+}
+
+QPushButton#openButton {
+    font-family: "STFangsong";
+    background-color: rgb(230, 230, 230);
+    border-radius: 8px;
+}
+
+QPushButton#openButton:hover {
+    font-family: "STFangsong";
+    background-color: rgb(243, 243, 255);
+    border-radius: 8px;
+}
+
+QPushButton#brightnessButton {
+    background-color: rgb(230, 230, 230);
+    border-radius: 8px;
+    font-family: "STFangsong";
+}
+
+QPushButton#brightnessButton:hover {
+    background-color: rgb(243, 243, 255);
+    border-radius: 8px;
+    font-family: "STFangsong";
+}
+
+QPushButton#setTimeButton {
+    background-color: rgb(230, 230, 230);
+    border-radius: 8px;
+    font-family: "STFangsong";
+}
+
+QPushButton#setTimeButton:hover {
+    background-color: rgb(243, 243, 255);
+    border-radius: 8px;
+    font-family: "STFangsong";
+}
+
+QPushButton#todoButton {
+    background-color: rgb(230, 230, 230);
+    border-radius: 8px;
+    font-family: "STFangsong";
+}
+
+QPushButton#todoButton:hover {
+    background-color: rgb(243, 243, 255);
+    border-radius: 8px;
+    font-family: "STFangsong";
+}
+
+QPushButton#FocusButton {
+    background-color: rgb(230, 230, 230);
+    border-radius: 8px;
+    font-family: "STFangsong";
+}
+
+QPushButton#FocusButton:hover {
+    background-color: rgb(243, 243, 255);
+    border-radius: 8px;
+    font-family: "STFangsong";
+}
+
+QPushButton#logButton {
+    background-color: rgb(230, 230, 230);
+    border-radius: 8px;
+    font-family: "STFangsong";
+}
+
+QPushButton#logButton:hover {
+    background-color: rgb(243, 243, 255);
+    border-radius: 8px;
+    font-family: "STFangsong";
+}
+
+
+QPushButton#elseButton {
+    background-color: rgb(230, 230, 230);
+    border-radius: 8px;
+    font-family: "STFangsong";
+}
+
+QPushButton#elseButton:hover {
+    background-color: rgb(243, 243, 255);
+    border-radius: 8px;
+    font-family: "STFangsong";
+}

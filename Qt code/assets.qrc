@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/Smart_lamp.qss</file>
+        <file>assets/close.png</file>
+        <file>assets/close_hover.png</file>
+        <file>assets/lamp_off.png</file>
+        <file>assets/lamp_open.png</file>
+        <file>assets/minimization.png</file>
+        <file>assets/minimization_hover.png</file>
+        <file>assets/compete.png</file>
+        <file>assets/zehang.png</file>
+        <file>assets/misaka.png</file>
+        <file>assets/chip.png</file>
+        <file>assets/buhuo1.png</file>
+        <file>assets/buhuo2.png</file>
+    </qresource>
+</RCC>
